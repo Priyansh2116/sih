@@ -5,8 +5,8 @@ import axios from 'axios';
 import Layout from './layout';
 import UploadImage from './components/ui/UploadImage';  // Import the UploadImage component
 
-const YOUTUBE_API_KEY = 'AIzaSyBQMNm0oFP9zml3INqNimFFeyD4GTOgSHA';
-const PLAYLIST_ID = 'PLpE3mEgd5GCnIKE2JLDISG4UJHiGlfw4j';
+const YOUTUBE_API_KEY = '';
+const PLAYLIST_ID = '';
 
 const fetchYouTubeVideos = async () => {
   try {
